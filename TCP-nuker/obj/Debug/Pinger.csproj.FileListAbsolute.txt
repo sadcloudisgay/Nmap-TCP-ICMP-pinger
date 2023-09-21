@@ -1,0 +1,7 @@
+C:\Users\USER\source\repos\TCP-nuker\TCP-nuker\obj\Debug\Pinger.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\TCP-nuker\TCP-nuker\obj\Debug\Pinger.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\TCP-nuker\TCP-nuker\bin\Debug\TCP-nuker.exe.config
+C:\Users\USER\source\repos\TCP-nuker\TCP-nuker\bin\Debug\TCP-nuker.exe
+C:\Users\USER\source\repos\TCP-nuker\TCP-nuker\bin\Debug\TCP-nuker.pdb
+C:\Users\USER\source\repos\TCP-nuker\TCP-nuker\obj\Debug\TCP-nuker.exe
+C:\Users\USER\source\repos\TCP-nuker\TCP-nuker\obj\Debug\TCP-nuker.pdb
